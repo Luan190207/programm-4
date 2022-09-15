@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="}Dd`tQ%YO[7ZvhI.8a%y" x="59" y="-398"><statement name="HANDLER"><block type="controls_if" id="fiKw*F9Wlh7U@m/d_4!Q"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="rm?aOqz`g,rF3ta,NLL5"><field name="NAME">Button.AB</field></block></value><statement name="DO0"><block type="device_show_leds" id="*sNn1|zr_,MJ3-y54!_d"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement><next><block type="controls_if" id="K#Dg$$_Nc6fr%jMua6nk"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="dkr{p2yJ{lCZ(,Z3DFkY"><field name="NAME">Button.A</field></block></value><statement name="DO0"><block type="basic_show_icon" id="9x~^*k#o]f~Ne_kO~@6l"><field name="i">IconNames.Happy</field></block></statement><next><block type="controls_if" id="l%.aM]*RN!pM[Pe:0v9i"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="A;fWyEt(ignq9F}T%Cm3"><field name="NAME">Button.B</field></block></value><statement name="DO0"><block type="basic_show_icon" id="6#gMJi}or~7:|7B[e$D="><field name="i">IconNames.Sad</field></block></statement></block></next></block></next></block></statement></block></xml>
